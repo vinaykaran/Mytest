@@ -1,1 +1,1 @@
-this is a js file
+console.log('Hello World');
